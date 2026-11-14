@@ -44,4 +44,4 @@ CarHub is a modern and responsive car rental catalog application built with Reac
 
 ## 📸 Project Preview
 
-![] (image.gif)
+![](image.gif)
